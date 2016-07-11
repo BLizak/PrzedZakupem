@@ -1,3 +1,3 @@
 # PrzedZakupem
 Sprawdzam czy warto za topłacić
-Pierwszy commit
+Pierws44zy commit
